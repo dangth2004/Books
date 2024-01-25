@@ -8,8 +8,10 @@ Dưới đây là một số quyển sách về Khoa học Máy tính (cập nh�
   - K. P. Murphy, Machine Learning: A Probabilistic Perspective, MIT Press, 2012
 - Sách về những ngôn ngữ lập trình:
   - B. Stroustrup, The C++ Programming Language, 4th edition, Addison-Wesley, 2013
-- Những quyển sách khác:
+- Sách về lý thuyết tính toán:
   - M. Sipser, Introduction to the Theory of Computation, 3rd edition, Cengage Learning, 2013
+- Sách về hệ điều hành:
+  - A. S. Tanenbaum and H. Bos, Modern Operating Systems, 4th edition, Pearson, 2014
 
 ## Books about Computer Science:
 Here are some of the books that I found interesting about Computer Science (update in 11st January 2024):
@@ -21,5 +23,7 @@ Here are some of the books that I found interesting about Computer Science (upda
   - K. P. Murphy, Machine Learning: A Probabilistic Perspective, MIT Press, 2012
 - Programming Language:
   - B. Stroustrup, The C++ Programming Language, 4th edition, Addison-Wesley, 2013
-- Others:
+- Theory of Computation:
   - M. Sipser, Introduction to the Theory of Computation, 3rd edition, Cengage Learning, 2013
+- Operating Systems:
+  - A. S. Tanenbaum and H. Bos, Modern Operating Systems, 4th edition, Pearson, 2014
