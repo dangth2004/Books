@@ -1,5 +1,5 @@
 ## Những quyển sách về khoa học máy tính:
-Dưới đây là một số quyển sách về Khoa học Máy tính (cập nhật vào ngày 25/01/2024):
+Dưới đây là một số quyển sách về Khoa học Máy tính (cập nhật vào ngày 08/02/2024):
 - Sách về thuật toán:
   - M. T. Goodrich, R. Tamassia and M. H. Goldwasser, Data Structures and Algorithms in Java, 6th edition, Wiley, 2014
   - T. H. Cormen, C. E. Leiserson, R. L. Rivest and C. Stein, Introduction to Algorithms, 4th edition, MIT Press, 2022
@@ -16,7 +16,7 @@ Dưới đây là một số quyển sách về Khoa học Máy tính (cập nh�
   - D. Bertsimas and J. N. Tsitsiklis, Introduction to Linear Optimization, Athena Scientific, 1997
 
 ## Books about Computer Science:
-Here are some of the books that I found interesting about Computer Science (update in 25th January 2024):
+Here are some of the books that I found interesting about Computer Science (update in 8th Febuary 2024):
 - Algorithms:
   - M. T. Goodrich, R. Tamassia and M. H. Goldwasser, Data Structures and Algorithms in Java, 6th edition, Wiley, 2014
   - T. H. Cormen, C. E. Leiserson, R. L. Rivest and C. Stein, Introduction to Algorithms, 4th edition, MIT Press, 2022
