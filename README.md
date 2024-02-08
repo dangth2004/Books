@@ -12,6 +12,8 @@ Dưới đây là một số quyển sách về Khoa học Máy tính (cập nh�
   - M. Sipser, Introduction to the Theory of Computation, 3rd edition, Cengage Learning, 2013
 - Sách về hệ điều hành:
   - A. S. Tanenbaum and H. Bos, Modern Operating Systems, 4th edition, Pearson, 2014
+- Sách về tối ưu hóa:
+  - D. Bertsimas and J. N. Tsitsiklis, Introduction to Linear Optimization, Athena Scientific, 1997
 
 ## Books about Computer Science:
 Here are some of the books that I found interesting about Computer Science (update in 25th January 2024):
@@ -27,3 +29,5 @@ Here are some of the books that I found interesting about Computer Science (upda
   - M. Sipser, Introduction to the Theory of Computation, 3rd edition, Cengage Learning, 2013
 - Operating Systems:
   - A. S. Tanenbaum and H. Bos, Modern Operating Systems, 4th edition, Pearson, 2014
+- Optimization:
+  - D. Bertsimas and J. N. Tsitsiklis, Introduction to Linear Optimization, Athena Scientific, 1997
