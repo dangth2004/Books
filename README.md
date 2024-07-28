@@ -6,6 +6,7 @@ Here are some of the books that I found interesting about Computer Science (upda
 - Artificial Intelligence:
   - S. J. Russell and P. Norvig, Artificial Intelligence: A Modern Approach, 3rd edition, Prentice-Hall, 2010
   - K. P. Murphy, Machine Learning: A Probabilistic Perspective, MIT Press, 2012
+  - Ian Goodfellow, Yoshua Bengio and Aaron Courville, Deep learning, MIT Press, 2016
 - Programming Language:
   - B. Stroustrup, The C++ Programming Language, 4th edition, Addison-Wesley, 2013
 - Theory of Computation:
